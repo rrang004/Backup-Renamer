@@ -6,5 +6,5 @@ I needed to install REAPER on a fresh computer, and in order for it to still rec
 manually or by reassociating each recorded part with the new filename. An example of a renamed filename is "17-spare gtr-181219_1657 (2019_01_03 00_41_18 UTC)"
 An example of an original filename is "17-spare gtr-181219_1657", so the names already are not user-friendly.
 
-My python script and the associated files need to be placed in the directory with all the stem files. It will rewrite the names without the additional UTC date/time.
+My python script and the associated files (everything is in /application) need to be placed in the directory with all the stem files. It will rewrite the names without the additional UTC date/time.
 
