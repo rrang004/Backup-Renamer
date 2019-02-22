@@ -1,5 +1,4 @@
 Backup-Renamer
-Simple python script to rename files to their original names after transferring them off of my backup drive.
 
 Problem: REAPER Digital Audio Workstation stem file names get renamed with a date and time of the backup when I use my back up hard drive.
 
